@@ -1,5 +1,5 @@
 //Customize blacklist
-let blacklist=['徐大虾咯','科技美学','敬汉卿','NathanRich火锅大王','千户长生']
+let blacklist=['测试测试','科技美学','敬汉卿','NathanRich火锅大王','千户长生']
 
 let body = $response.body
 body=JSON.parse(body)
